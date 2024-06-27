@@ -144,6 +144,10 @@ body {
   border-radius: 50%;
 }
 
+#loginpage{
+  text-decoration: none;
+}
+
 .signupBtn:hover .arrow {
   animation: slide-in-left 0.7s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
 }
